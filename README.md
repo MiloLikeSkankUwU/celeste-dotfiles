@@ -17,3 +17,13 @@ A clean MacOS Celeste rice on Linux using WhiteSur
 
 ## 💜 System Setup
 - Operating System: [Fedora Linux](https://fedoraproject.org/)
+-  Colour Scheme: Go to Color Scheme folder
+- Desktop Environment: [GNOME](https://www.gnome.org) by [GNOME Foundation](https://foundation.gnome.org)
+-  GTK Theme: Modified version of [WhiteSur GTK](https://github.com/vinceliuice/WhiteSur-gtk-theme-GTK-Theme) by vinceliuice
+- Fonts: Default
+- Icon Theme: [Sonoma](https://github.com/USBA/Cupertino-Sonoma-iCons)
+- Terminal: GNOME Terminal (Default)
+- Shell: [Z Shell](https://www.zsh.org)
+-  Zsh Theme: [PowerLevel10K](https://github.com/romkatv/powerlevel10k) by [Roman Perepelitsa](https://github.com/romkatv)
+- Fetch: [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- Browser: [Brave](https://brave.com/) by [Brave](https://brave.com/)
