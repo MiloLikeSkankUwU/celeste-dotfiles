@@ -29,3 +29,14 @@ A clean MacOS Celeste rice on Linux using WhiteSur
 -  Zsh Theme: [PowerLevel10K](https://github.com/romkatv/powerlevel10k) by [Roman Perepelitsa](https://github.com/romkatv)
 - Fetch: [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - Browser: [Brave](https://brave.com/) by [Brave](https://brave.com/)
+
+## Extensions
+
+- Workspace Blur: [Blur My Shell](https://github.com/aunetx/blur-my-shell) by [Aurélien Hamy](https://github.com/aunetx)
+- Window Open/Close Animations: [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) by [Simon Schneegans](https://github.com/Schneegans)
+- Panel Clipboard: [Clipboard History](https://github.com/SUPERCILEX/gnome-clipboard-history) by [Alex Saveau](https://github.com/SUPERCILEX)
+- Window Moving Animations: [Windows Effect](https://github.com/hermes83/compiz-windows-effect) by [hermes83](https://github.com/hermes83)
+-  Dock: [Dash to Dock](https://github.com/micheleg/dash-to-dock) by [Michele Gaio](https://github.com/micheleg)
+-  Clock and Weather Widgets: [Desktop Widgets](https://gitlab.com/AndrewZaech/azclock) by [Andrew Zaech](https://gitlab.com/AndrewZaech)
+-  Logo on Panel: [Logo Menu](https://github.com/Aryan20/Logomenu) by [Aryan Kaushik](https://github.com/Aryan20)
+-  Song and Artist on Panel: [Mpris Label](https://github.com/Moon-0xff/gnome-mpris-label) by [Moon-0xff](https://github.com/Moon-0xff)
