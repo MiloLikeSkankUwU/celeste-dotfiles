@@ -12,3 +12,8 @@
   <a href="https://github.com/MiloLikeSkankUwU/celeste-dotfiles/contributors">
     <img src="https://img.shields.io/github/contributors/MiloLikeSkankUwU/celeste-dotfiles?style=for-the-badge&logo=github&color=f38ba8&logoColor=D9E0EE&labelColor=302D41">
   </a>
+# 🪴 Overview
+A clean MacOS Celeste rice on Linux using WhiteSur
+
+## 💜 System Setup
+- Operating System: [Fedora Linux](https://fedoraproject.org/)
